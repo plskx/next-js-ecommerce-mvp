@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+.env
+/products
+/public/products
+/prisma/dev.db
 
 # testing
 /coverage
